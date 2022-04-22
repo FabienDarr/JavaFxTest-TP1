@@ -1,0 +1,7 @@
+/*==================================== BASE ====================================*/
+.button {
+  -fx-background-color: rgb(255, 0, 0);
+  -fx-border-radius: 0.25em;
+  -fx-background-image: url("pressed.png");
+}
+
